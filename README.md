@@ -47,4 +47,3 @@ src/ft_free           teardown / leak-free exit paths
 - Exit codes mirror bash, including `127` (command not found) and `126`
   (not executable).
 
-> **My contribution:** _(to be filled in — which half of lexer/parser/executor/builtins I owned)_
